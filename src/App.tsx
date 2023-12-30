@@ -1,10 +1,12 @@
 import React from 'react';
 import './App.css';
+import logo from './missingPawLogo.png';
 
 function App() {
     return (
         <div className="App">
-            <h2>Allgemeine Geschäftsbedingungen</h2>
+            <img src={logo} className="App-logo" alt="MissingPaw-logo"/>
+            <h2 className="text">Allgemeine Geschäftsbedingungen</h2>
             <h3>1. Geltungsbereich</h3>
             <p className="paragraph">
                 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
