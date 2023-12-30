@@ -4,9 +4,11 @@ import logo from './missingPawLogo.png';
 
 function App() {
     return (
-        <div className="App">
-            <img src={logo} className="App-logo" alt="MissingPaw-logo"/>
-            <h2 className="text">Allgemeine Geschäftsbedingungen</h2>
+        <div className={"App"}>
+            <div className={"imgContainer"}>
+                <img src={logo} className="App-logo" alt="MissingPaw-logo"/>
+                <h2 className="text">Allgemeine Geschäftsbedingungen</h2>
+            </div>
             <h3>1. Geltungsbereich</h3>
             <p className="paragraph">
                 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut

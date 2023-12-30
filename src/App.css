@@ -11,9 +11,14 @@
 
 .App-logo {
     height: 20vmin;
-    position: absolute;
-    top: 1vw;
+    top: 5vw;
     left: 1vw;
+}
+
+.imgContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
 }
 
 .App-header {
