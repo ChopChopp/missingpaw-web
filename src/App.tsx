@@ -7,79 +7,63 @@ function App() {
         <div className={"App"}>
             <div className={"imgContainer"}>
                 <img src={logo} className="App-logo" alt="MissingPaw-logo"/>
-                <h2 className="text">Allgemeine Geschäftsbedingungen</h2>
+                <h2 className="text">AGB</h2>
             </div>
-            <h3>1. Geltungsbereich</h3>
-            <p className="paragraph">
-                Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
-                labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et
-                ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum
-                dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore
-                magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
-                clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit
-                amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna
-                aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita
-                kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+            <div className="paragraph">
+                <p>Allgemeine Geschäftsbedingungen (AGB) für die Nutzung der "Missing Paw" Applikation</p>
 
-                Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip
-                ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie
-                consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim
-                qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+                <p><strong>1. Geltungsbereich und Vertragsgegenstand</strong><br/>
+                    Diese Allgemeinen Geschäftsbedingungen (nachfolgend "AGB") regeln die Nutzung der "Missing Paw"
+                    Applikation (nachfolgend "App") durch die Nutzer. Die App wird von Umut Öztürk und Simao Duarte
+                    (Freiherrenstrasse 4, 8820, Wädenswil, Schweiz) bereitgestellt.</p>
 
-                Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat
-                facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
-                euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis
-                nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+                <p><strong>2. Beschreibung der App-Funktionen</strong><br/>
+                    Die "Missing Paw" App dient den Nutzern als digitales Vermisstenplakat für vermisste Tiere. Die
+                    Nutzer haben die Möglichkeit, ein Profil für ein vermisstes Tier zu erstellen, das Name, Alter, Bild
+                    des Tieres sowie Informationen zur Umgebung, in der das Tier verloren ging, enthält.</p>
 
-                Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
-                labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et
-                ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum
-                dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore
-                magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
-                clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit
-                amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna
-                aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita
-                kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+                <p><strong>3. Anonymität und Freigabe von Vermisstenplakaten</strong><br/>
+                    Jedes Vermisstenplakat ist zunächst anonym. Die Freigabe und die damit zugrunde liegende
+                    Bereitstellung der vorgelegten Daten für andere Nutzer erfolgt erst dann, wenn der Nutzer das Tier
+                    offiziell als vermisst angibt.</p>
 
-                Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum
-                dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent
-                luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet,
-                consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam
-                erat volutpat.
+                <p><strong>4. Öffentliche Anzeigen und Sichtungen</strong><br/>
+                    Wenn das Vermisstenplakat zur Freigabe öffentlich geschalten wird, können andere Nutzer auf der
+                    Hauptseite der App alle Vermisstenanzeigen einsehen. Nutzer haben die Möglichkeit zu melden, dass
+                    sie ein vermisstes Tier gesichtet haben. Dabei können sie eine kleine Notiz schreiben, um
+                    zusätzliche Informationen bereitzustellen. Die genannte Notiz ist nur für den Eigentümer des
+                    Vermisstenplakat ersichtlich.</p>
 
-                Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip
-                ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie
-                consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim
-                qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+                <p><strong>5. Kostenfreie Nutzung und Verkaufsverbot</strong><br/>
+                    Die App bietet einen vollumfänglich unentgeltlichen Service im Rahmen ihrer Tätigkeit an.</p>
 
-                Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat
-                facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
-                euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis
-                nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+                <p><strong>6. Datenschutz und Datenverwendung</strong><br/>
+                    Die in der App eingegebenen Daten werden auf einer Datenbank von Firebase gespeichert. Diese Daten
+                    werden ausschließlich im Kontext der Applikation für die Profilerstellung und die Kommunikation
+                    innerhalb der App genutzt. Die Personendaten auf der Datenbank werden von Google unter ihren eigenen
+                    Bestimmungen gehandhabt (AGB Firebase). Es werden geeignete technische und organisatorische
+                    Massnahmen vorgenommen, um die Daten sicher zu lagern und verwalten.</p>
 
-                Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum
-                dolore eu feugiat nulla facilisis.
+                <p><strong>7. Haftungsausschluss</strong><br/>
+                    Die Nutzung der App erfolgt auf eigenes Risiko. Die Betreiberin haftet nur für absichtlich und
+                    grobfahrlässig verursachte Schäden, bei Personenschäden auch im Falle leichter Fahrlässigkeit. Eine
+                    weitergehende Haftung auch für indirekte Schäden, entgangener Gewinn, Datenverlust und Folgeschäden
+                    ist - soweit gesetzlich zulässig - ausgeschlossen.</p>
 
-                At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata
-                sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
-                diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero
-                eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est
-                Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, At accusam aliquyam
-                diam diam dolore dolores duo eirmod eos erat, et nonumy sed tempor et et invidunt justo labore Stet
-                clita ea et gubergren, kasd magna no rebum. sanctus sea sed takimata ut vero voluptua. est Lorem ipsum
-                dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor
-                invidunt ut labore et dolore magna aliquyam erat.
+                <p><strong>8. Änderungen der AGB</strong><br/>
+                    Der Anbieter behält sich das Recht vor, diese AGB jederzeit zu ändern. Die Nutzer werden über
+                    Änderungen rechtzeitig informiert.</p>
 
-                Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam
-                erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
-                gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet,
-                consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam
-                erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
-                gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet,
-                consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam
-                erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
-                gubergren, no sea takimata sanctus.
-            </p>
+                <p><strong>9. Änderung der Personendaten</strong><br/>
+                    Der Nutzer behält sich das Recht vor, die eigenen Angaben nach Art. 32 DSG und Art. 12-23 DSGVO
+                    anzupassen.</p>
+
+                <p><strong>10. Schlussbestimmungen</strong><br/>
+                    Es gilt schweizerisches Recht. Gerichtsstand ist Zürich, Schweiz. Sollten einzelne Bestimmungen
+                    dieser AGB unwirksam sein oder werden, bleibt die Wirksamkeit der übrigen Bestimmungen hiervon
+                    unberührt.</p>
+            </div>
+
         </div>
     );
 }
