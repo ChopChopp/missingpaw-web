@@ -34,7 +34,7 @@ i18n
                     changes_to_personal_data: 'Der Nutzer behält sich das Recht vor, die eigenen Angaben nach Art. 32 DSG und Art. 12-23 DSGVO anzupassen.',
                     final_provisions_title: '10 Schlussbestimmungen',
                     final_provisions: 'Es gilt schweizerisches Recht. Gerichtsstand ist Zürich, Schweiz. Sollten einzelne Bestimmungen dieser AGB unwirksam sein oder werden, bleibt die Wirksamkeit der übrigen Bestimmungen hiervon unberührt.',
-
+                    support: 'Für Unterstützung bitte kontaktieren Sie uns unter folgender Mail Adresse info.missingpaw@gmail.com',
                 }
             },
             en: {
@@ -61,6 +61,7 @@ i18n
                     changes_to_personal_data: 'The User reserves the right to change his/her personal data in accordance with Art. 32 DSG and Art. 12-23 DSGVO.',
                     final_provisions_title: '10 Final provisions',
                     final_provisions: 'Swiss law applies. The place of jurisdiction is Zurich, Switzerland. Should any provision of these terms and conditions be or become invalid, this shall not affect the validity of the remaining provisions.',
+                    support: 'For support, please contact us at info.missingpaw@gmail.com',
                 }
             },
         }

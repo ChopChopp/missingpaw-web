@@ -65,6 +65,8 @@ function App() {
 
                 <p><strong>{t("final_provisions_title")}</strong><br/>
                     {t("final_provisions")}</p>
+
+                <p><strong>{t("support")}</strong><br/></p>
             </div>
 
         </div>
