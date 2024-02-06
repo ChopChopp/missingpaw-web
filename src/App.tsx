@@ -31,8 +31,10 @@ function App() {
 
             <div className={"imgContainer"}>
                 <img src={logo} className="App-logo" alt="MissingPaw-logo"/>
+                <a href={'https://apps.apple.com/ch/app/missing-paw/id6476522586?l=en-GB'}>{t("download")}</a>
                 <h2 className="text">{t("title")}</h2>
             </div>
+
             <div className="paragraph">
                 <p>{t("subtitle")}</p>
 
